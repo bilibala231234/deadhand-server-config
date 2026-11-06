@@ -1,14 +1,14 @@
 {
-  "configVersion": 1,
+  "configVersion": 2,
   "environment": "production",
-  "serverName": "Render 正式服务器",
-  "apiBaseUrl": "https://texas-holdem-server-0cmx.onrender.com",
-  "websocketUrl": "wss://texas-holdem-server-0cmx.onrender.com/ws",
+  "serverName": "本机测试服A",
+  "apiBaseUrl": "http://127.0.0.1:8091",
+  "websocketUrl": "ws://127.0.0.1:8091/ws",
   "protocolVersion": "1",
   "minimumClientVersion": "1.0.0",
   "maintenance": false,
-  "updatedAt": "2026-11-06T08:11:07Z",
-  "note": "首版：用户已部署的 Render 免费实例",
-  "publisher": "bootstrap-script",
-  "signature": "v98nkE5Xh6tBiJKup3i3EOHb5zafBDm9con48Brk12CG2SVrZNbUdAxKW+Q4krwOP02mURDCgojTIwcez8irAw=="
+  "updatedAt": "2026-11-06T11:07:21Z",
+  "note": "验收测试1：正常换服",
+  "publisher": "49960de5880e",
+  "signature": "I7yjFZUA2x3N9CbPXUE4tgcTJ8npR+vgQjlT/J29a88CUAGrX65OuwLdUDgbLOxOB0OvJOLSvYZJU0YwJly8AQ=="
 }
