@@ -1,14 +1,14 @@
 {
-  "configVersion": 9,
+  "configVersion": 10,
   "environment": "production",
-  "serverName": "本机测试服B",
-  "apiBaseUrl": "http://127.0.0.1:8095",
-  "websocketUrl": "ws://127.0.0.1:8095/ws",
+  "serverName": "Render 正式服务器",
+  "apiBaseUrl": "https://texas-holdem-server-0cmx.onrender.com",
+  "websocketUrl": "wss://texas-holdem-server-0cmx.onrender.com/ws",
   "protocolVersion": "1",
   "minimumClientVersion": "1.0.0",
   "maintenance": false,
-  "updatedAt": "2026-11-06T14:52:24Z",
-  "note": "公共牌查看修复验证",
+  "updatedAt": "2026-11-06T15:59:28Z",
+  "note": "交付：恢复正式服务器地址（公共牌修复与安卓管理端验收完成后）",
   "publisher": "49960de5880e",
-  "signature": "kGMEQQ2SRyIBdlFVCnXdUy4CcvZ5aFlp+HbOdEYlhJrjnu4swULIwfPrSKQohhmOhJpUyg0SIKB/evizXkTWDw=="
+  "signature": "mESUBCElXcC86JhyctQ33rzWZcGEq2PUFVMrcpFoXOoFYk8iGzmTLgsPiEDIRX2R/d48+iqmpdvkUd2u97olCg=="
 }
