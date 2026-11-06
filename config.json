@@ -1,14 +1,14 @@
 {
-  "configVersion": 3,
+  "configVersion": 4,
   "environment": "production",
-  "serverName": "本机测试服B",
-  "apiBaseUrl": "http://127.0.0.1:8095",
-  "websocketUrl": "ws://127.0.0.1:8095/ws",
+  "serverName": "伪造服务器（签名错误测试）",
+  "apiBaseUrl": "https://evil.example.com",
+  "websocketUrl": "wss://evil.example.com/ws",
   "protocolVersion": "1",
   "minimumClientVersion": "1.0.0",
   "maintenance": false,
-  "updatedAt": "2026-11-06T11:36:41Z",
-  "note": "验收测试1+7：正常换服/APK独立性",
-  "publisher": "49960de5880e",
-  "signature": "w6miF6+w0QA+SvaT3503Emnvd2Qk0zsdctrhhiVQOWCuyaS6rpCqNO5MJblT1MGGuvS7f6qR597Zw5akJtOfDg=="
+  "updatedAt": "2026-11-06T12:28:47Z",
+  "note": "验收测试4：签名错误，客户端必须拒绝",
+  "publisher": "acceptance-test",
+  "signature": "A6miF6+w0QA+SvaT3503Emnvd2Qk0zsdctrhhiVQOWCuyaS6rpCqNO5MJblT1MGGuvS7f6qR597Zw5akJtOfDg=="
 }
