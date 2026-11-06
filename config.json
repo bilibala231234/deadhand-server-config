@@ -1,14 +1,14 @@
 {
-  "configVersion": 5,
+  "configVersion": 6,
   "environment": "production",
-  "serverName": "本机测试服A",
-  "apiBaseUrl": "http://127.0.0.1:8091",
-  "websocketUrl": "ws://127.0.0.1:8091/ws",
+  "serverName": "本机测试服B",
+  "apiBaseUrl": "http://127.0.0.1:8095",
+  "websocketUrl": "ws://127.0.0.1:8095/ws",
   "protocolVersion": "1",
   "minimumClientVersion": "1.0.0",
   "maintenance": false,
-  "updatedAt": "2026-11-06T13:01:36Z",
+  "updatedAt": "2026-11-06T13:22:14Z",
   "note": "验收测试5：牌局中改服不中断",
   "publisher": "49960de5880e",
-  "signature": "Duok6WUbcsArnFg6eeSZSSZwQ/E6FedRaTHFTjp/1gfSVQbKanTzXN6nCdydkgoGgOhOgNCesrNSYn+dD8tBBw=="
+  "signature": "U78Mn+pjmHmReh7G4RbkGCHZb+1bQ/sWk235GHvJ9JrFfyRbOrG9xLOPNabzYkdi051UGKhd/PHZjx7+wapfCQ=="
 }
