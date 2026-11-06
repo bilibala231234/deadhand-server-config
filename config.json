@@ -1,14 +1,14 @@
 {
-  "configVersion": 7,
+  "configVersion": 8,
   "environment": "production",
-  "serverName": "本机测试服A",
-  "apiBaseUrl": "http://127.0.0.1:8091",
-  "websocketUrl": "ws://127.0.0.1:8091/ws",
+  "serverName": "Render 正式服务器",
+  "apiBaseUrl": "https://texas-holdem-server-0cmx.onrender.com",
+  "websocketUrl": "wss://texas-holdem-server-0cmx.onrender.com/ws",
   "protocolVersion": "1",
   "minimumClientVersion": "1.0.0",
   "maintenance": false,
-  "updatedAt": "2026-11-06T13:29:39Z",
-  "note": "回滚到 v5 的服务器配置（新版本号，不倒退）",
+  "updatedAt": "2026-11-06T13:31:14Z",
+  "note": "交付：恢复正式服务器地址（全部验收完成）",
   "publisher": "49960de5880e",
-  "signature": "ZmowM7GnNA5nPHJauyl6FVjUO6EJzYF2R0G4RSNaPx0xm6BEisEkl5C1zd4NdPGBRpudmDiLryGz5cg78qllAw=="
+  "signature": "NYV01V3utm0ZtAWBPWqT54xQlgRkaGrnGT/ohALvaK3MmAwYznfc0nyJ7DwZuxASOHyStw7Nv9AGBPtjiuO1Aw=="
 }
