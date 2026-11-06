@@ -1,14 +1,14 @@
 {
-  "configVersion": 2,
+  "configVersion": 3,
   "environment": "production",
-  "serverName": "本机测试服A",
-  "apiBaseUrl": "http://127.0.0.1:8091",
-  "websocketUrl": "ws://127.0.0.1:8091/ws",
+  "serverName": "本机测试服B",
+  "apiBaseUrl": "http://127.0.0.1:8095",
+  "websocketUrl": "ws://127.0.0.1:8095/ws",
   "protocolVersion": "1",
   "minimumClientVersion": "1.0.0",
   "maintenance": false,
-  "updatedAt": "2026-11-06T11:07:21Z",
-  "note": "验收测试1：正常换服",
+  "updatedAt": "2026-11-06T11:36:41Z",
+  "note": "验收测试1+7：正常换服/APK独立性",
   "publisher": "49960de5880e",
-  "signature": "I7yjFZUA2x3N9CbPXUE4tgcTJ8npR+vgQjlT/J29a88CUAGrX65OuwLdUDgbLOxOB0OvJOLSvYZJU0YwJly8AQ=="
+  "signature": "w6miF6+w0QA+SvaT3503Emnvd2Qk0zsdctrhhiVQOWCuyaS6rpCqNO5MJblT1MGGuvS7f6qR597Zw5akJtOfDg=="
 }
